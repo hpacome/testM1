@@ -1,0 +1,12 @@
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\bin\Debug\netcoreapp3.1\ASPA.DAL.deps.json
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\bin\Debug\netcoreapp3.1\ASPA.DAL.runtimeconfig.json
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\bin\Debug\netcoreapp3.1\ASPA.DAL.runtimeconfig.dev.json
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\bin\Debug\netcoreapp3.1\ASPA.DAL.dll
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\bin\Debug\netcoreapp3.1\ASPA.DAL.pdb
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\obj\Debug\netcoreapp3.1\ASPA.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\obj\Debug\netcoreapp3.1\ASPA.DAL.AssemblyInfoInputs.cache
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\obj\Debug\netcoreapp3.1\ASPA.DAL.AssemblyInfo.cs
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\obj\Debug\netcoreapp3.1\ASPA.DAL.dll
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\obj\Debug\netcoreapp3.1\ASPA.DAL.pdb
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\obj\Debug\netcoreapp3.1\ASPA.DAL.genruntimeconfig.cache
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.DAL\obj\Debug\netcoreapp3.1\ASPA.DAL.csprojAssemblyReference.cache

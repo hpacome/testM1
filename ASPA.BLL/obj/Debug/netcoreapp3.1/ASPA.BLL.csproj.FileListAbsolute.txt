@@ -1,0 +1,14 @@
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\bin\Debug\netcoreapp3.1\ASPA.BLL.deps.json
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\bin\Debug\netcoreapp3.1\ASPA.BLL.dll
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\bin\Debug\netcoreapp3.1\ASPA.BLL.pdb
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\obj\Debug\netcoreapp3.1\ASPA.BLL.csprojAssemblyReference.cache
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\obj\Debug\netcoreapp3.1\ASPA.BLL.AssemblyInfoInputs.cache
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\obj\Debug\netcoreapp3.1\ASPA.BLL.AssemblyInfo.cs
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\obj\Debug\netcoreapp3.1\ASPA.BLL.dll
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\obj\Debug\netcoreapp3.1\ASPA.BLL.pdb
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\bin\Debug\netcoreapp3.1\ASPA.DAL.dll
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\bin\Debug\netcoreapp3.1\ASPA.DAL.pdb
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\obj\Debug\netcoreapp3.1\ASPA.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\obj\Debug\netcoreapp3.1\ASPA.BLL.csproj.CopyComplete
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\bin\Debug\netcoreapp3.1\ASPA.BOL.dll
+C:\Users\Lynx\Documents\Projects\app\ASPA\ASPA.BLL\bin\Debug\netcoreapp3.1\ASPA.BOL.pdb
