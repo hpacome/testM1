@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPA.BOL\ASPA.BOL.csproj" />
+    <ProjectReference Include="..\ASPA.DAL\ASPA.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
